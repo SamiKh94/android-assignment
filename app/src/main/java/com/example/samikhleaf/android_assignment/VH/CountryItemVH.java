@@ -8,6 +8,10 @@ import com.example.samikhleaf.android_assignment.R;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class CountryItemVH extends RecyclerView.ViewHolder {
 
     public CircleImageView flag;

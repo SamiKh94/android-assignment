@@ -11,6 +11,10 @@ import android.widget.TextView;
 import com.example.samikhleaf.android_assignment.DataModels.DayWeatherInfo;
 import com.example.samikhleaf.android_assignment.R;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class WeatherInformationFragment extends Fragment {
 
     private DayWeatherInfo dayWeatherInfo;

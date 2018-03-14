@@ -4,6 +4,10 @@ import com.example.samikhleaf.android_assignment.DataModels.CountriesResponseMod
 
 import java.util.Observable;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class CityDataObserver extends Observable {
 
     private static CityDataObserver instance = null;

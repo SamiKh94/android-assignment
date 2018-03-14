@@ -4,6 +4,10 @@ import com.google.gson.annotations.SerializedName;
 
 import java.io.Serializable;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class DayWeatherInfo implements Serializable {
 
     @SerializedName("dt_txt")

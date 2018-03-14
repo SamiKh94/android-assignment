@@ -18,6 +18,10 @@ import com.example.samikhleaf.android_assignment.R;
 import java.util.Observable;
 import java.util.Observer;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class MainWeatherInformationFragment extends Fragment implements Observer {
 
     ViewPager tabsPager;

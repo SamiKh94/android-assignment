@@ -19,6 +19,10 @@ import java.util.Observer;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class DetailsFragment extends Fragment implements Observer {
 
     CircleImageView flag;

@@ -14,6 +14,10 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class RetrofitManager {
 
     private static RetrofitManager instance = null;

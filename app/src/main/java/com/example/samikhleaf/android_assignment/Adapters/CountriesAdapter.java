@@ -18,6 +18,10 @@ import com.google.gson.Gson;
 
 import java.util.List;
 
+/**
+ * Created by samikhleaf on 1/24/18.
+ */
+
 public class CountriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private List<CountriesResponseModel> dataSet;
