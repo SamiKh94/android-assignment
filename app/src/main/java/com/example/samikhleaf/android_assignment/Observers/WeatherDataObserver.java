@@ -4,10 +4,6 @@ import com.example.samikhleaf.android_assignment.DataModels.DayWeatherInfo;
 
 import java.util.Observable;
 
-/**
- * Created by samikhleaf on 1/24/18.
- */
-
 public class WeatherDataObserver extends Observable {
 
 

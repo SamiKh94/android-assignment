@@ -1,9 +1,5 @@
 package com.example.samikhleaf.android_assignment;
 
-/**
- * Created by samikhleaf on 1/24/18.
- */
-
 public class Constants {
 
     public static final String coutriesApiUrl = "https://restcountries.eu/rest/v1/all/";

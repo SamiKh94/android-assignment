@@ -10,10 +10,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 import retrofit2.http.Url;
 
-/**
- * Created by samikhleaf on 1/24/18.
- */
-
 public interface WeatherApiService {
 
     @GET

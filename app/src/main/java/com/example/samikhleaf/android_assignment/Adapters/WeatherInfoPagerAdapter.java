@@ -13,10 +13,6 @@ import java.util.List;
 import java.util.Observable;
 import java.util.Observer;
 
-/**
- * Created by samikhleaf on 1/24/18.
- */
-
 public class WeatherInfoPagerAdapter extends FragmentPagerAdapter implements Observer {
 
     private DayWeatherInfo[] dayWeatherInfo;
